@@ -14,4 +14,5 @@
 
 ### 😄 Pronouns: He/His
 ### ⚡ Fun fact: I love playing Cricket.
-### Glad to see you here !! <img src="https://visitor-badge.glitch.me/badge?page_id=nitishVrma" height="23px" width="80px">
+### Glad to see you here !! 
+<img src="https://visitor-badge.glitch.me/badge?page_id=nitishVrma" height="23px" width="80px">

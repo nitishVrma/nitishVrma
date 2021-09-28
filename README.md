@@ -18,7 +18,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloning Hotels.com with React js](https://medium.com/@nitishverma2371997/hotels-com-cloned-1af8b4fe8771)
+- [Cloning Twitter with React js](https://medium.com/@nitishverma2371997/hotels-com-cloned-1af8b4fe8771)
 <!-- BLOG-POST-LIST:END -->
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=nitishVrma&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=#000000&bg_color=#FFFFFF" />

@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a Hotel website.
+- 🔭 I’m currently working on cloning Twitter.com.
 - 🌱 I’m currently learning Full Stack web Development (MERN).
 - 👯 I’m looking to collaborate on active and creative projects.
 - ⚡ Fun fact: I love to play Basket Ball and do photography.
@@ -18,7 +18,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloning Twitter with React js](https://medium.com/@nitishverma2371997/hotels-com-cloned-1af8b4fe8771)
+- [Cloning Hotel.in with React js](https://medium.com/@nitishverma2371997/hotels-com-cloned-1af8b4fe8771)
 <!-- BLOG-POST-LIST:END -->
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=nitishVrma&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=#000000&bg_color=#FFFFFF" />
